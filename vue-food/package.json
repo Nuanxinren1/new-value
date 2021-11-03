@@ -13,7 +13,7 @@
     "async": "^2.6.1",
     "element-ui": "^2.4.11",
     "v-distpicker": "^1.0.21",
-    "validator": "^10.9.0",
+    "validator": "^13.7.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
