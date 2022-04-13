@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "element-ui": "^2.4.11",
     "v-distpicker": "^1.0.21",
     "validator": "^10.9.0",
